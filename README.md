@@ -1,16 +1,22 @@
-## Hi there 👋
+<img src="img/Hello.png" width=100%>
 
-<!--
-**francescodepatre/francescodepatre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi!, I'm Francesco
 
-Here are some ideas to get you started:
+I am a graduate student in Computer Engineering, specializing in Artificial Intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Interests
+
+- Artificial Intelligence
+- Computer Vision
+- Embedded Systems
+- Web Development
+- Control Systems
+
+## How to reach me
+- **Email**: fra.dp01@outlook.com
+- **Instagram**: https://www.instagram.com/depatrefrancesco/
+- **Facebook**: https://www.facebook.com/francesco.depatre.1
+- **LinkedIn**: https://www.linkedin.com/in/francesco-de-patre-10001a2b4/
+
+![francescodepatre's GitHub stats](https://github-readme-stats.vercel.app/api?username=francescodepatre&theme=dark)
+
